@@ -1,2 +1,2 @@
-#Shell scripting lecture
+#!/bin/bash
 pwd
